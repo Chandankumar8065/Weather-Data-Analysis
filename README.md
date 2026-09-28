@@ -63,8 +63,8 @@ Used NumPy-based filtering to identify:
 
 | File | Description |
 |---|---|
-| `Weather_Data_Analysis.ipynb` | Complete analysis notebook |
-| `weather_data_analysis.csv` | Weather dataset used for analysis |
+| [Weather_Data_Analysis.ipynb](./Weather_Data_Analysis.ipynb) | Complete analysis notebook |
+| [weather_data_analysis.csv](./weather_data_analysis.csv) | Weather dataset used for analysis |
 
 ## 📈 Dataset
 
